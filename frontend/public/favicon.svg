@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="pulseon-favicon-gradient" x1="10" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284c7" />
+      <stop offset="0.52" stop-color="#06b6d4" />
+      <stop offset="1" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="48" height="48" rx="18" fill="url(#pulseon-favicon-gradient)" />
+  <rect x="11" y="11" width="42" height="42" rx="15" fill="#0f172a" fill-opacity="0.08" stroke="white" stroke-opacity="0.22" />
+  <path
+    d="M18 32h7l5-10 6 20 6-14 5 6h7"
+    stroke="#082f49"
+    stroke-width="4.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
