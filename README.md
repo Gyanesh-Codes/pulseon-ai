@@ -63,39 +63,6 @@ Default backend URL:
 
 - `http://localhost:4000`
 
-## GitHub Setup
-
-To put this project on GitHub:
-
-1. Create a new empty repository on GitHub, for example `pulseon-ai`.
-2. In your local project root, run:
-
-```bash
-git init
-git add .
-git commit -m "Initial Pulseon Ai app structure"
-git branch -M main
-git remote add origin https://github.com/<your-username>/pulseon-ai.git
-git push -u origin main
-```
-
-If this folder is already a git repo, skip `git init` and just run:
-
-```bash
-git add .
-git commit -m "Organize Pulseon Ai into frontend/backend structure"
-git branch -M main
-git remote add origin https://github.com/<your-username>/pulseon-ai.git
-git push -u origin main
-```
-
-If a remote already exists, replace the remote URL with:
-
-```bash
-git remote set-url origin https://github.com/<your-username>/pulseon-ai.git
-git push -u origin main
-```
-
 ## Recommended Repo Architecture
 
 - `frontend/`
